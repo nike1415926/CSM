@@ -8,8 +8,6 @@
 ![Status](https://img.shields.io/badge/status-production--ready-green.svg)
 
 
-[特點](#特點) • [快速開始](#快速開始) • [文件](#文件) • [範例](#範例) • [架構](#架構)
-
 </div>
 
 ---
